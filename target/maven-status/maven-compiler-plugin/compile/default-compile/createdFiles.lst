@@ -1,0 +1,13 @@
+com\student\score\service\EvaluationService.class
+com\student\score\exception\InvalidRequestException.class
+com\student\score\repository\ScoreSheetRepository.class
+com\student\score\model\ScoreSheetResponse.class
+com\student\score\entity\ScoreSheetEntity.class
+com\student\score\model\SubjectDetails.class
+com\student\score\model\ScoreSheetRequest.class
+com\student\score\model\ScoreResponse.class
+com\student\score\ScoreEvaluatorApplication.class
+com\student\score\model\ScoreRequest.class
+com\student\score\controller\EvaluationController.class
+com\student\score\repository\ScoreRepository.class
+com\student\score\entity\ScoreEntity.class

@@ -1,0 +1,13 @@
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\controller\EvaluationController.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\entity\ScoreEntity.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\entity\ScoreSheetEntity.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\exception\InvalidRequestException.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\model\ScoreRequest.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\model\ScoreResponse.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\model\ScoreSheetRequest.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\model\ScoreSheetResponse.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\model\SubjectDetails.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\repository\ScoreRepository.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\repository\ScoreSheetRepository.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\ScoreEvaluatorApplication.java
+C:\Users\chira\eclipse-latest-workspace\score-evaluator\src\main\java\com\student\score\service\EvaluationService.java
